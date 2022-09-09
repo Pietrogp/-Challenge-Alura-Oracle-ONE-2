@@ -1,4 +1,4 @@
-# -Challenge-Alura-Oracle-ONE-2
+# Challenge-Alura-Oracle-ONE-2
 Jogo da forca
 
 Challenge ONE Sprint 02:
