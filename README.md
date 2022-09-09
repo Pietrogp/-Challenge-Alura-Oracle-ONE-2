@@ -26,4 +26,4 @@ Obrigado
 
 #challengeonejogoforca2
 
-[🌎 Página]
+[🌎 Página](https://pietrogp.github.io/Challenge-Alura-Oracle-ONE-2/)
